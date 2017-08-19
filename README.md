@@ -4,7 +4,7 @@ First use Github
 #include <iostream>
 using std::cout;
 
-int mai(void0
+int main(void)
 {
     cout << "HelloWorld\n";
     
